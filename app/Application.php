@@ -33,7 +33,7 @@
  * @link      http://rawphp.org/
  */
 
-namespace RawFramework;
+namespace RawPHP\RawFramework;
 
 use RawPHP\RawApplication\Application as BaseApplication;
 

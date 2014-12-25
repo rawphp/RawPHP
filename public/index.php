@@ -33,7 +33,7 @@
  * @link      http://rawphp.org/
  */
 
-use RawFramework\Application;
+use RawPHP\RawFramework\Application;
 
 require_once __DIR__ . '/../bootstrap/defines.php';
 
