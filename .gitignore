@@ -1,0 +1,7 @@
+/vendor/
+project.xml
+project.properties
+/tests/build/
+/composer.lock
+/build/
+.idea

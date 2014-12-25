@@ -1,0 +1,26 @@
+{
+    "name": "rawphp/rawphp-framework",
+    "description": "The RawPHP Framework",
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tom Kaczocha",
+            "email": "tom@rawphp.org"
+        }
+    ],
+    "require": {
+        "rawphp/raw-application": "0.*@dev",
+        "rawphp/raw-console": "0.*@dev",
+        "rawphp/raw-file-system": "0.*@dev",
+        "rawphp/raw-database": "0.*@dev"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "RawPHP\\RawFramework\\": "app/"
+        }
+    },
+    "minimum-stability": "dev"
+}
