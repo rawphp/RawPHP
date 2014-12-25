@@ -45,7 +45,7 @@ return
         'app'     =>
             [
                 'debug'            => TRUE,
-                'class'            => 'RawPHP\\RawApplication\\Support\\TestApp',
+                'class'            => 'RawPHP\\RawFramework\\Application',
                 'name'             => 'RawFramework',
                 'default_language' => 'en_US',
             ],
