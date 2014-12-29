@@ -12,8 +12,7 @@
     "require": {
         "rawphp/raw-application": "0.*@dev",
         "rawphp/raw-console": "0.*@dev",
-        "rawphp/raw-file-system": "0.*@dev",
-        "rawphp/raw-database": "0.*@dev"
+        "rawphp/raw-file-system": "0.*@dev"
     },
     "require-dev": {
     },
